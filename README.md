@@ -3,7 +3,7 @@
 Welcome
 
 I love reverse engineering!
-I don't use AI very often. only to translate work materials into English.
+I dont use AI very often. only to translate work materials into English.
 
 --- Русский
 добро пожаловать
